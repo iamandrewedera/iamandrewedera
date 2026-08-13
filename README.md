@@ -4,7 +4,6 @@
 - Optimizing websites for better performance and scalability.
 
 🌱 **Currently Learning:**  
-- Advanced Laravel and Headless WordPress development.
 - DevOps, CI/CD pipelines, and scalable cloud infrastructure.
 
 ---
