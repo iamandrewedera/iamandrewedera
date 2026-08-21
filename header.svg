@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Andrew Mark Edera — Senior Full Stack Developer. Laravel, PHP and WordPress. 15 years, remote, GMT+8.">
+  <defs>
+    <style>
+      .mono { font-family: ui-monospace, 'SF Mono', 'Cascadia Mono', 'Segoe UI Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+      .name  { fill:#fafafa; font-size:38px; letter-spacing:-0.5px; }
+      .role  { fill:#fafafa; font-size:16px; letter-spacing:0.5px; }
+      .muted { fill:#9a9a9a; font-size:14px; letter-spacing:0.3px; }
+      .faint { fill:#828282; font-size:12px; letter-spacing:1.6px; }
+      .val   { fill:#fafafa; font-size:14px; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="260" rx="10" fill="#0a0a0a"/>
+  <rect x="0.5" y="0.5" width="999" height="259" rx="9.5" fill="none" stroke="#1f1f1f"/>
+
+  <text x="56" y="58" class="mono faint">00 — built by andrew</text>
+
+  <text x="56" y="112" class="mono name">Andrew Mark Edera</text>
+
+  <text x="56" y="146" class="mono role">Senior Full Stack Developer</text>
+  <text x="56" y="172" class="mono muted">laravel · php · wordpress · vue · react</text>
+
+  <line x1="56" y1="200" x2="944" y2="200" stroke="#1f1f1f"/>
+
+  <text x="56"  y="228" class="mono val">15+ yrs</text>
+  <text x="56"  y="245" class="mono faint">EXPERIENCE</text>
+
+  <text x="220" y="228" class="mono val">phpstan · pest · playwright</text>
+  <text x="220" y="245" class="mono faint">TESTED &amp; SHIPPED IN CI</text>
+
+  <text x="560" y="228" class="mono val">remote · gmt+8</text>
+  <text x="560" y="245" class="mono faint">CAVITE, PHILIPPINES</text>
+
+  <text x="800" y="228" class="mono val">open</text>
+  <text x="800" y="245" class="mono faint">FOR WORK</text>
+</svg>
